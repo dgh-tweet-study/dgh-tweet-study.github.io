@@ -1,8 +1,8 @@
 ---
 layout: layout.liquid
-title: Targeted Harassment of Academics by Hindutva India-US - A Twitter Analysis
+title: Targeted Harassment of Academics by Hindutva - A Twitter Analysis of the India-US connection
 ---
-## Targeted Harassment of Academics by Hindutva India-US : A Twitter Analysis, Sep 2021
+## Targeted Harassment of Academics by Hindutva : A Twitter Analysis of the India-US Connection
 
 ![Twitter network communities](images/Network4Plus.png)
 *Communities of "attackers" and retweeters*
