@@ -8,4 +8,4 @@
 ## Todo
 
 * [Add this?](https://mtm.dev/external-links-new-tab)
-* [ ] Test actions
+* [ ] Test actions again
