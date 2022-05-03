@@ -9,7 +9,7 @@ title: Targeted Harassment of Academics by Hindutva - A Twitter Analysis of the 
 
 By [Manan Ahmed](https://twitter.com/sepoy), [Sriharsha Devulapalli](https://twitter.com/HarshaReports), and [Juan Francisco Saldarriaga](https://juanfrans.com/)
 
-[*We acknowledge and thank three colleagues, all of whom chose to be anonymous, for their feedback*--May 3, 2022]
+[We acknowledge and thank three colleagues, all of whom chose to be anonymous, for their feedback--May 3, 2022]
 
 ### Introduction
 
