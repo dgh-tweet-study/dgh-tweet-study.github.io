@@ -35,7 +35,7 @@ We are three researchers based, respectively, in the [History Department](https:
 
 ### Methodology
 
-We began with a focus on hashtags deployed against the conference. We can already see, in the list reproduced below, several the important themes: an idea of "Hinduphobia" and claims of "racism" alongside positive assertions of "SantanDharma" or "HinduRashtra"—themselves claims of an expansive, imperial and eternal religious state. We collected data through [Twitter’s academic API](https://developer.twitter.com/en/products/twitter-api/academic-research), which gave us free access to the full historical archive of tweets. We used Python to query the API and downloaded all tweets and retweets published between August 8 and September 21, 2021 that included any of the following hashtags:
+We began with a focus on hashtags deployed against the conference. We can already see, in the list reproduced below, several important themes: an idea of "Hinduphobia" and claims of "racism" alongside positive assertions of "SantanDharma" or "HinduRashtra"—themselves claims of an expansive, imperial and eternal religious state. We collected data through [Twitter’s academic API](https://developer.twitter.com/en/products/twitter-api/academic-research), which gave us free access to the full historical archive of tweets. We used Python to query the API and downloaded all tweets and retweets published between August 8 and September 21, 2021 that included any of the following hashtags:
 
 * #dgh
 * #Hinduphobic
