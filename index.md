@@ -166,11 +166,11 @@ With these categories, we selected 121 accounts that we labeled as "attackers". 
 
 <img src="./images/tweet6.png" alt="Tweet from @vijaygajera" width=400px>
 
-2. Actor Pranita Subash's [tweet](https://web.archive.org/web/20210911062637/https://twitter.com/pranitasubhash/status/1436576858879918080) accused the DGH conference as part of a larger plan to attack Hindus worldwide.
+2. Actor Pranita Subash's [tweet](https://web.archive.org/web/20210911062637/https://twitter.com/pranitasubhash/status/1436576858879918080) accused the DGH conference as part of a larger plan to attack Hindus worldwide. She links the conference specifically to 9/11--as a number of media did, most prominently RepublicTV led by Arnab Goswami.
 
 <img src="./images/tweet7.png" alt="Tweet from @pranitasubash" width=400px>
 
-3. Kanchan Gupta is a senior advisor to the Ministry of Information and Broadcasting to the Modi Government. His [tweet](http://web.archive.org/web/20210910034459/https://twitter.com/KanchanGupta/status/1436166262938243072)amplifies a video of Suhag A. Shukla, director of Hindu American Foundation.
+3. Kanchan Gupta is a senior advisor to the Ministry of Information and Broadcasting to the Modi Government. His [tweet](http://web.archive.org/web/20210910034459/https://twitter.com/KanchanGupta/status/1436166262938243072) amplifies a video of Suhag A. Shukla, director of Hindu American Foundation.
 
 <img src="./images/tweet10.png" alt="Tweet from @kanchangupta" width=400px>
 
